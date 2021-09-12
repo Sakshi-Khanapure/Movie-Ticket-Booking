@@ -15,7 +15,7 @@
  *   1. Book new Ticket
  *   2. Delete booked Ticket
  *   3. Display a specific Ticket
- *   4. Display all tickets
+ *   4. Display all tickets*/
 #include<iostream>
 #include<iomanip>
 #include<limits>
